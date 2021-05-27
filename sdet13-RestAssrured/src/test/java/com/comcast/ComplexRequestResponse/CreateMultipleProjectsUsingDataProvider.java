@@ -1,4 +1,4 @@
-package com.comcast.RMGYTests;
+package com.comcast.ComplexRequestResponse;
 
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;

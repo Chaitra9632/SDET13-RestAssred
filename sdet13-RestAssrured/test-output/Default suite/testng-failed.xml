@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.comcast.CRUDPractice.CreateProjectUsingHashMap">
+      <class name="com.comcast.ParameterAuthentication.Oath2Authentication">
         <methods>
-          <include name="createProjectWithHashMapTest"/>
+          <include name="oath2Test"/>
         </methods>
-      </class> <!-- com.comcast.CRUDPractice.CreateProjectUsingHashMap -->
+      </class> <!-- com.comcast.ParameterAuthentication.Oath2Authentication -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
